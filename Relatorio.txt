@@ -1,0 +1,73 @@
+====================================================
+RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
+Estratégia de Conteúdo Avançada
+Data: 25/11/2026, 16:06:03
+Missões concluídas: 0 de 12
+====================================================
+
+🏪 NEGÓCIO ESCOLHIDO
+Nome: PCBuilder
+Tipo: Outro
+Descrição: Site especializado em ajudar iniciantes a ter seu primeiro computador
+
+----------------------------------------------------
+🎯 MISSÕES PRÁTICAS
+----------------------------------------------------
+[ ] 🎭 Persona
+    → Lucas, 16 anos, estudante de programação que precisa de um computador
+
+[ ] 🎯 Objetivo SMART
+    → Conseguir ajuda 4 clientes a ter seus primeiros computadores em 3 semanas
+
+[ ] 🗺️ Jornada do Consumidor
+    → Montar Computador (PC), avalia a compatibilidade dos componetes, avalia orçamento e guia a montagem, não faz nenhuma compra, apenas gera os links dos componentes escolhidos
+
+[ ] 💡 Tópicos de Conteúdo
+    → Montar PC, como escolher peças de computador, como saber a compatibilidade dos componentes, meu tipo ideia de computador, estatística de desempenho
+
+[ ] ✍️ Conteúdo (publicação)
+    → Não sabe como escolher as peças para o seu computador? O PCBuilder resolve! Avaliamos o seu objetivo, orçamento, compatibilidade das peças
+
+[ ] 📢 Distribuição
+    → Instagram, X (antigo Twitter) e Tik Tok
+
+[ ] 🎯 Personalização
+    → Versão jovem: Seu PC consegue 200 FPS em jogos competitivos em estimativas. Versão adulto: Seu computador serve perfeitamente para seu trabalho
+
+[ ] 🔍 SEO
+    → Palavra-chave: Montar PC gamer. Titulo: Monte seu PC sem medo de errar. Descrição: Avalia orçamento, compatibilidade e guia as escolhas com calma
+
+[ ] ❤️ Engajamento
+    → Não cobramos nada, apenas orientamos a sua montagem. Nosso tutorial é nosso diferencial
+
+[ ] 🔄 Iteração
+    → Avaliar a responsividade em diferentes telas, avaliar o que falta para incluir na montagem para não enganar o usuário
+
+[ ] 🚀 Tendências
+    → Vídeo curto mostrando o site e como é fácil montar o PC ideal para você
+
+[ ] 🕵️ Concorrência
+    → O concorrente é mais bem desenvolvido, tem mais relevância, mais alcance, mas o foco deles é para fora do país
+
+----------------------------------------------------
+📄 PÁGINA DE CONTEÚDO (mini-editor)
+----------------------------------------------------
+Título SEO: PCBuilder | Monte seu Primeiro PC Gamer com Compatibilidade e Orçamento
+URL amigável: https://seusite.com.br/montar-pc-gamer-iniciantes
+Meta description: Guia visual e gratuito para iniciantes montarem seu PC gamer sem medo de errar. Verifique a compatibilidade das peças e controle seu orçamento.
+Corpo do conteúdo:
+Monte seu PC gamer, sem medo de errar.
+
+O PCBuilder é um guia simples, visual e feito para iniciantes. Escolha as peças certas com checagem automática de compatibilidade, acompanhamento de orçamento em tempo real e explicações sem jargões técnicos.
+
+Como funciona na prática:
+1. Conte seu objetivo: Qual será o objetivo do computador e quanto pretende investir.
+2. Escolha as peças: compare opções e veja o impacto no desempenho com avisos imediatos de compatibilidade.
+3. Revise e monte: confira todas as peças escolhidas e avance com segurança até o primeiro boot.
+
+Comece agora mesmo a configurar seu computador ideal a partir de R$ 3.800.
+
+
+====================================================
+FIM DO RELATÓRIO
+====================================================
